@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Samples/web3.unity SDK/2.6.0/Web3.Unity Samples/Scenes/SampleLogin
+    - WalletConnect.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
